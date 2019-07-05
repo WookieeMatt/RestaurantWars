@@ -1,0 +1,8 @@
+{
+	"BuildId": "5660361",
+	"Modules": 
+	{
+		"ObsEvent": "UE4Editor-ObsEvent.dll",
+		"ObsEventEditor": "UE4Editor-ObsEventEditor.dll"
+	}
+}

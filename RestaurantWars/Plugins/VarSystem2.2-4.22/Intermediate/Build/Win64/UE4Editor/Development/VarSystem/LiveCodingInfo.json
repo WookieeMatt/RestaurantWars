@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VarSystem.cpp.obj": [
+			"ActorRefVariable.cpp.obj",
+			"BaseVariable.cpp.obj",
+			"BoolVariable.cpp.obj",
+			"FloatVariable.cpp.obj",
+			"FRotatorVariable.cpp.obj",
+			"FVectorVariable.cpp.obj",
+			"IntVariable.cpp.obj",
+			"LocalBoolVariable.cpp.obj",
+			"LocalFloatVariable.cpp.obj",
+			"LocalFRotatorVariable.cpp.obj",
+			"LocalFVectorVariable.cpp.obj",
+			"LocalIntVariable.cpp.obj",
+			"LocalStringVariable.cpp.obj",
+			"StringVariable.cpp.obj",
+			"VariablesSaver.cpp.obj",
+			"VarSystemModule.cpp.obj"
+		],
+		"Module.VarSystem.gen.cpp.obj": [
+			"ActorRefVariable.gen.cpp.obj",
+			"BaseVariable.gen.cpp.obj",
+			"BoolVariable.gen.cpp.obj",
+			"FloatVariable.gen.cpp.obj",
+			"FRotatorVariable.gen.cpp.obj",
+			"FVectorVariable.gen.cpp.obj",
+			"IntVariable.gen.cpp.obj",
+			"LocalBoolVariable.gen.cpp.obj",
+			"LocalFloatVariable.gen.cpp.obj",
+			"LocalFRotatorVariable.gen.cpp.obj",
+			"LocalFVectorVariable.gen.cpp.obj",
+			"LocalIntVariable.gen.cpp.obj",
+			"LocalStringVariable.gen.cpp.obj",
+			"StringVariable.gen.cpp.obj",
+			"VariablesSaver.gen.cpp.obj",
+			"VarSystem.init.gen.cpp.obj"
+		]
+	}
+}

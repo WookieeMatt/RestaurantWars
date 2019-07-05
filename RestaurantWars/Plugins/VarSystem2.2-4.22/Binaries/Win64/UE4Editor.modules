@@ -1,0 +1,8 @@
+{
+	"BuildId": "5660361",
+	"Modules": 
+	{
+		"VarSystem": "UE4Editor-VarSystem.dll",
+		"VarSystemEditor": "UE4Editor-VarSystemEditor.dll"
+	}
+}

@@ -1,0 +1,13 @@
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEventEditor\Definitions.ObsEventEditor.h
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventEditor.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventEditorSettings.gen.cpp
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Source\ObsEventEditor/Private/Shared/ObsEventEditorSettings.h
+c:\users\mriml\documents\repos\mandelaeffect\mandela_effect\mandelaeffect\plugins\obsevent2.4-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\ObsEventEditorSettings.generated.h
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventFactory.gen.cpp
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Source\ObsEventEditor/Private/Factories/ObsEventFactory.h
+c:\users\mriml\documents\repos\mandelaeffect\mandela_effect\mandelaeffect\plugins\obsevent2.4-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\ObsEventFactory.generated.h
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventFactoryNew.gen.cpp
+C:\Users\mriml\Documents\repos\MandelaEffect\Mandela_Effect\MandelaEffect\Plugins\ObsEvent2.4-4.22\Source\ObsEventEditor/Private/Factories/ObsEventFactoryNew.h
+c:\users\mriml\documents\repos\mandelaeffect\mandela_effect\mandelaeffect\plugins\obsevent2.4-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\ObsEventFactoryNew.generated.h

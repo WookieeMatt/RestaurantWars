@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VarSystemEditor.cpp.obj": [
+			"VarSystemActions.cpp.obj",
+			"VarSystemFactory.cpp.obj",
+			"VarSystemFactoryNew.cpp.obj",
+			"VarSystemEditorSettings.cpp.obj",
+			"VarSystemEditorToolkit.cpp.obj",
+			"VarSystemEditorModule.cpp.obj",
+			"SVarSystemEditor.cpp.obj"
+		],
+		"Module.VarSystemEditor.gen.cpp.obj": [
+			"VarSystemEditor.init.gen.cpp.obj",
+			"VarSystemEditorSettings.gen.cpp.obj",
+			"VarSystemFactory.gen.cpp.obj",
+			"VarSystemFactoryNew.gen.cpp.obj"
+		]
+	}
+}

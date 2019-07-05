@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ObsEvent.cpp.obj": [
+			"K2Node_ConstructObsPayload.cpp.obj",
+			"ObsComponentListener.cpp.obj",
+			"ObsEvent.cpp.obj",
+			"ObsEventModule.cpp.obj",
+			"ObsInterfaceListener.cpp.obj",
+			"ObsPayload.cpp.obj",
+			"ObsWidgetListener.cpp.obj"
+		],
+		"Module.ObsEvent.gen.cpp.obj": [
+			"K2Node_ConstructObsPayload.gen.cpp.obj",
+			"ObsComponentListener.gen.cpp.obj",
+			"ObsEvent.gen.cpp.obj",
+			"ObsEvent.init.gen.cpp.obj",
+			"ObsInterfaceListener.gen.cpp.obj",
+			"ObsPayload.gen.cpp.obj",
+			"ObsWidgetListener.gen.cpp.obj"
+		]
+	}
+}
