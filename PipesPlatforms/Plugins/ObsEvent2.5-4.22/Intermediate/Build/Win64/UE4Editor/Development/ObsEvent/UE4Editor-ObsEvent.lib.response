@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ObsEvent.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEvent\Module.ObsEvent.cpp.obj"
+"C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEvent\Module.ObsEvent.gen.cpp.obj"
+"C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEvent\Default.rc2.res"
+/OUT:"C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEvent\UE4Editor-ObsEvent.lib"
+/INCLUDE:IMPLEMENT_MODULE_ObsEvent

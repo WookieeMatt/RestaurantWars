@@ -1,0 +1,4 @@
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\ObsEventEditor.Build.cs
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEvent\ObsEvent.Build.cs
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystemEditor\VarSystemEditor.Build.cs
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\VarSystem.Build.cs

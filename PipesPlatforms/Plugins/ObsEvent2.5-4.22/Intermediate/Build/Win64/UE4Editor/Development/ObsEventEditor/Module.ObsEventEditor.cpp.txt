@@ -1,0 +1,119 @@
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEventEditor\Definitions.ObsEventEditor.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\AssetTools\ObsEventActions.cpp
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\source\obseventeditor\private\assettools\ObsEventActions.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Developer\AssetTools\Public\AssetTypeActions_Base.h
+c:\program files\epic games\ue_4.22\engine\source\developer\assettools\public\IAssetTools.h
+c:\program files\epic games\ue_4.22\engine\source\developer\assettools\public\AssetTypeCategories.h
+c:\program files\epic games\ue_4.22\engine\source\developer\assettools\public\IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+c:\program files\epic games\ue_4.22\engine\source\developer\assettools\public\AssetToolsModule.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\Toolkits/SimpleAssetEditor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor/PropertyEditor/Public/PropertyEditorDelegates.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEvent\Public\ObsEvent.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEvent\ObsEvent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Toolkits\ObsEventEditorToolkit.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Factories\ObsEventFactory.cpp
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\source\obseventeditor\private\factories\ObsEventFactory.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventFactory.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Factories\ObsEventFactoryNew.cpp
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\source\obseventeditor\private\factories\ObsEventFactoryNew.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventFactoryNew.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Nodes\K2Node_ConstructObsPayload.cpp
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\source\obseventeditor\private\nodes\K2Node_ConstructObsPayload.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph/Classes/K2Node_ConstructObjectFromClass.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_ConstructObjectFromClass.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\K2Node_ConstructObsPayload.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\KismetCompiler\Public\KismetCompiler.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
+c:\program files\epic games\ue_4.22\engine\source\editor\blueprintgraph\classes\K2Node_EventNodeInterface.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
+c:\program files\epic games\ue_4.22\engine\source\editor\kismetcompiler\public\BPTerminal.h
+c:\program files\epic games\ue_4.22\engine\source\editor\kismetcompiler\public\KismetCompilerMisc.h
+c:\program files\epic games\ue_4.22\engine\source\editor\kismetcompiler\public\BlueprintCompiledStatement.h
+c:\program files\epic games\ue_4.22\engine\source\editor\kismetcompiler\public\EdGraphCompilerUtilities.h
+c:\program files\epic games\ue_4.22\engine\source\editor\kismetcompiler\public\KismetCompiledFunctionContext.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph\Public\BlueprintActionDatabaseRegistrar.h
+c:\program files\epic games\ue_4.22\engine\source\editor\blueprintgraph\public\BlueprintActionDatabase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph\Public\BlueprintNodeSpawner.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph\Classes\BlueprintNodeBinder.h
+c:\program files\epic games\ue_4.22\engine\source\editor\blueprintgraph\public\BlueprintActionFilter.h
+c:\program files\epic games\ue_4.22\engine\source\editor\blueprintgraph\public\BlueprintGraphModule.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\BlueprintNodeSpawner.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_CallFunction.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_CallFunction.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEvent\Public\ObsPayload.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEvent\ObsPayload.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\Kismet2/BlueprintEditorUtils.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Camera/CameraShake.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraShake.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DeveloperSettings.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\ObsEventEditorModule.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Developer\Settings\Public\ISettingsSection.h
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\source\obseventeditor\private\Styles/ObsEventEditorStyle.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\projects\public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\projects\public\CustomBuildSteps.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\projects\public\LocalizationDescriptor.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Shared\ObsEventEditorSettings.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventEditorSettings.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Shared\ObsEventEditorSettings.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Toolkits\ObsEventEditorToolkit.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Widgets\SObsEventEditor.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Widgets/Input/SMultiLineEditableTextBox.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Widgets/Text/SMultiLineEditableText.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayoutFactory.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayout.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor\Private\Widgets\SObsEventEditor.cpp

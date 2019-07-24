@@ -1,0 +1,18 @@
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Development\ObsEventEditor\Definitions.ObsEventEditor.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\K2Node_ConstructObsPayload.gen.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor/Private/Nodes/K2Node_ConstructObsPayload.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Editor\BlueprintGraph/Classes/K2Node_ConstructObjectFromClass.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_ConstructObjectFromClass.generated.h
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\K2Node_ConstructObsPayload.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventEditor.init.gen.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventEditorSettings.gen.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor/Private/Shared/ObsEventEditorSettings.h
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\ObsEventEditorSettings.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventFactory.gen.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor/Private/Factories/ObsEventFactory.h
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\ObsEventFactory.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Intermediate\Build\Win64\UE4Editor\Inc\ObsEventEditor\ObsEventFactoryNew.gen.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\ObsEvent2.5-4.22\Source\ObsEventEditor/Private/Factories/ObsEventFactoryNew.h
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\obsevent2.5-4.22\intermediate\build\win64\ue4editor\inc\obseventeditor\ObsEventFactoryNew.generated.h

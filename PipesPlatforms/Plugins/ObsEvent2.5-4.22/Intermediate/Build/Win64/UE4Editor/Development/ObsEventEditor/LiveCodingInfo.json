@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ObsEventEditor.cpp.obj": [
+			"ObsEventActions.cpp.obj",
+			"ObsEventFactory.cpp.obj",
+			"ObsEventFactoryNew.cpp.obj",
+			"K2Node_ConstructObsPayload.cpp.obj",
+			"ObsEventEditorModule.cpp.obj",
+			"ObsEventEditorSettings.cpp.obj",
+			"ObsEventEditorToolkit.cpp.obj",
+			"SObsEventEditor.cpp.obj"
+		],
+		"Module.ObsEventEditor.gen.cpp.obj": [
+			"K2Node_ConstructObsPayload.gen.cpp.obj",
+			"ObsEventEditor.init.gen.cpp.obj",
+			"ObsEventEditorSettings.gen.cpp.obj",
+			"ObsEventFactory.gen.cpp.obj",
+			"ObsEventFactoryNew.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,59 @@
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Development\VarSystem\Definitions.VarSystem.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\ActorRefVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\ActorRefVariable.h
+c:\users\mriml\documents\repos\restaurantwars\restaurantwars\pipesplatforms\plugins\varsystem2.2-4.22\source\varsystem\public\BaseVariable.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\BaseVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\ActorRefVariable.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\BaseVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\BoolVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\BoolVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\BoolVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\FloatVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\FloatVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\FloatVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\FRotatorVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\FRotatorVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\FRotatorVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\FVectorVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\FVectorVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\FVectorVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\IntVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\IntVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\IntVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\LocalBoolVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\LocalBoolVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\LocalBoolVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\LocalFloatVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\LocalFloatVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\LocalFloatVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\LocalFRotatorVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\LocalFRotatorVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\LocalFRotatorVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\LocalFVectorVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\LocalFVectorVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\LocalFVectorVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\LocalIntVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\LocalIntVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\LocalIntVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\LocalStringVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\LocalStringVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\LocalStringVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\StringVariable.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\StringVariable.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\StringVariable.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\VariablesSaver.cpp
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Public\VariablesSaver.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Intermediate\Build\Win64\UE4Editor\Inc\VarSystem\VariablesSaver.generated.h
+C:\Users\mriml\Documents\repos\RestaurantWars\RestaurantWars\PipesPlatforms\Plugins\VarSystem2.2-4.22\Source\VarSystem\Private\VarSystemModule.cpp
